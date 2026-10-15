@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+venv/
+.venv/
+ffmpeg.exe
+*.mp3
+*.mp4
+*.part
+*.ytdl
